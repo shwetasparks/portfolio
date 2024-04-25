@@ -1,5 +1,5 @@
 import project1 from "../../assets/project1.png";
-
+import project2 from "../../assets/project2.png";
 
 function project() {
    return (
@@ -71,7 +71,7 @@ function project() {
                   <a href="#">
                      <img
                         className="rounded-t-lg w-full"
-                        src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        src={project2}
                         alt=""
                      />
                   </a>
@@ -133,8 +133,9 @@ function project() {
                         Full Stack Ecommerce app
                      </h5>
                      <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                        Here are the biggest enterprise technology acquisitions
-                        of 2021 so far, in reverse chronological order.
+                        🛒 Full Stack E-commerce Web App: End-to-end
+                         📊 Dashboard Integration 
+                         🔐 Authentication and Authorization
                      </p>
                      <div className="flex flex-col md:flex-row gap-2">
                         <a href="#" className="flex-1">
