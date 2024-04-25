@@ -24,11 +24,11 @@ function Hero() {
                <div className="mt-[1.5rem] flex space-y-6 sm:space-y-0 sm:flex-row items-center sm:space-x-6">
                   <div className="flex space-x-2 gap-8">
                      <a
-                        href="https://drive.google.com/file/d/1AtFSFnbqAZMsVgt8iJZMltM4xQr2HcEI/view?usp=drive_link"
+                        href="https://drive.google.com/file/d/18Yoo5FgZcOvY01WGTRXaM8kmRRe0yy_k/view?usp=sharing"
                         target="_blank"
                         className="p-1 hover:bg-purple-400 transition-all duration-200  text-[14px] uppercase bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-bold rounded-lg text-sm text-center me-2 mb-2 text-black flex items-center">
                         <p>Download cv </p>
-                        <ArrowDownTrayIcon/>
+                        <ArrowDownTrayIcon />
                      </a>
                      <a
                         href="https://www.linkedin.com/in/shweta-k001/"
